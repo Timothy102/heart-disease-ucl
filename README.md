@@ -31,6 +31,3 @@ Attribute Information:
 
 13 - thal: 3 = normal; 6 = fixed defect; 7 = reversable defect
 
-
-
-The names and social security numbers of the patients were recently removed from the database, replaced with dummy values. One file has been "processed", that one containing the Cleveland database. All four unprocessed files also exist in this directory.
