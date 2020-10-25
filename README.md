@@ -5,7 +5,8 @@ this date. The "goal" field refers to the presence of heart disease in the patie
 
 Attribute Information:
 
-1 - age 
+1 - age
+
 2 - sex
 3 - chest pain type (4 values)
 4 - resting blood pressure
